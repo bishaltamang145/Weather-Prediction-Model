@@ -1,6 +1,7 @@
 # 🌦️ Seattle Weather Prediction — Streamlit App ☀️🌧️❄️
 
 An end-to-end Machine Learning pipeline and interactive Streamlit web application that predicts daily Seattle weather conditions (`rain`, `sun`, `fog`, `drizzle`, or `snow`) based on atmospheric measurements and seasonal time features.
+
 Demo URL: https://weather-prediction-model-hznqptffddxhhnwx5r27qr.streamlit.app/
 ---
 
